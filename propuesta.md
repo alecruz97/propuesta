@@ -23,13 +23,6 @@ Los administradores podrán postear noticias y controlar todos los mensajes de l
 
     . Administradores: "Iniciar sesión", "Cerrar sesión", "Eliminar usuario", "Crear noticias", "Modificar noticias", "Borrar noticias", "Borrar comentarios", "Borrar mensajes", "Ver usuarios registrados", "Eliminar usuarios", "Añadir juegos", "Eliminar juegos".
 
-A diferencia de los casos de uso, los objetivos no tienen principio ni fin.
-
-Por ejemplo:
-
-* Objetivo: "gestionar los alquileres y las devoluciones de las películas".
-* Casos de uso: "alquilar una película", "devolver una película".
-
 # Elemento de innovación
 
 Integración de una API externa de un juego en la que se reciba información para procesarla dentro de la aplicación para mostar a los usuarios sus estadísticas sobre este. La principal idea es usar la API de desarrollo de Riot Games.
