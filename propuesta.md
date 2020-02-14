@@ -21,7 +21,7 @@ Los administradores podrán postear noticias y controlar todos los mensajes de l
     
     . Usuarios: "Iniciar sesión", "Cerrar sesión", "Eliminar usuario", "Añadir un juego", "Escribir en el muro", "Buscar otros usuarios", "Comentar una noticia", "Borrar comentario de una noticia", "Valorar una noticia", "Ver usuarios de un juego".
 
-    . Administradores: "Iniciar sesión", "Cerrar sesión", "Eliminar usuario", "Crear noticias", "Borrar noticias", "Borrar comentarios", "Borrar mensajes", "Ver usuarios registrados", "Eliminar usuarios", "Añadir juegos", "Eliminar juegos".
+    . Administradores: "Iniciar sesión", "Cerrar sesión", "Eliminar usuario", "Crear noticias", "Modificar noticias", "Borrar noticias", "Borrar comentarios", "Borrar mensajes", "Ver usuarios registrados", "Eliminar usuarios", "Añadir juegos", "Eliminar juegos".
 
 A diferencia de los casos de uso, los objetivos no tienen principio ni fin.
 

@@ -343,6 +343,361 @@
 | **Entrega**     | v1             |
 
 
+| **R39**     | **Crear base de datos**         |
+| --------------: | :------------------- |
+| **Descripción** | Diseño, creación e implementación de la base de datos que será usada por los usuarios.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Información                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R40**     | **Añadir un género**         |
+| --------------: | :------------------- |
+| **Descripción** | Añadir un género, deberá cumplir las reglas SQL especificadas en la base de datos.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R41**     | **Modificar un género**         |
+| --------------: | :------------------- |
+| **Descripción** | Modificar un género, deberá cumplir las reglas SQL especificadas en la base de datos.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R42**     | **Eliminar un género**         |
+| --------------: | :------------------- |
+| **Descripción** | Eliminar un género que no deberá estar vinculado a un videojuego.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v1             |
+
+
+| **R43**     | **Añadir un videojuego**         |
+| --------------: | :------------------- |
+| **Descripción** | Añadir un videojuego, deberá cumplir las reglas SQL especificadas en la base de datos.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R44**     | **Modificar un videojuego**         |
+| --------------: | :------------------- |
+| **Descripción** | Modificar un videojuego, deberá cumplir las reglas SQL especificadas en la base de datos.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R45**     | **Eliminar un videojuego**         |
+| --------------: | :------------------- |
+| **Descripción** | Eliminar un videojuego que no deberá estar vinculado a un usuario ni a género.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v1             |
+
+
+| **R46**     | **Añadir un administrador**         |
+| --------------: | :------------------- |
+| **Descripción** | Añadir un administrador que cumpla con las reglas SQL especificadas en la base de datos.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R47**     | **Modificar un administrador**         |
+| --------------: | :------------------- |
+| **Descripción** | Modificar un administrador, que deberá cumplir las reglas SQL especificadas en la base de datos.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R48**     | **Eliminar un administrador**         |
+| --------------: | :------------------- |
+| **Descripción** | Eliminar un administrador de la base de datos.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v1             |
+
+
+| **R49**     | **Añadir un usuario**         |
+| --------------: | :------------------- |
+| **Descripción** | Añadir un usuario que cumpla con las reglas SQL especificadas en la base de datos.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R50**     | **Modificar un usuario**         |
+| --------------: | :------------------- |
+| **Descripción** | Modificar un usuario, que deberá cumplir las reglas SQL especificadas en la base de datos.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R51**     | **Eliminar un usuario**         |
+| --------------: | :------------------- |
+| **Descripción** | Eliminar un usuario de la base de datos.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v1             |
+
+
+| **R52**     | **Añadir una noticia**         |
+| --------------: | :------------------- |
+| **Descripción** | Añadir una noticia, que deberá cumplir con las reglas especificadas en la base de datos.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R53**     | **Modificar una noticia**         |
+| --------------: | :------------------- |
+| **Descripción** | Modificar una noticia, que deberá cumplir con las reglas especificadas en la base de datos.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R54**     | **Eliminar una noticia**         |
+| --------------: | :------------------- |
+| **Descripción** | Eliminar una noticia.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R55**     | **Buscar un videojuego**         |
+| --------------: | :------------------- |
+| **Descripción** | Buscar un videojuego por diferentes parámetros: "género, año de lanzamiento, estudio de desarrollo, etc".             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v1             |
+
+
+| **R56**     | **Buscar un usuario**         |
+| --------------: | :------------------- |
+| **Descripción** | Buscar un usuario por diferentes parámetros: "nombre, videojuegos, etc".             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v1             |
+
+
+| **R57**     | **Ordenar videojuegos**         |
+| --------------: | :------------------- |
+| **Descripción** | Ordenar un videojuego por diferentes parametros: "género, año de lanzamiento, estudio de desarrollo, etc".                      |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v1             |
+
+
+| **R58**     | **Registrarse como usuario**         |
+| --------------: | :------------------- |
+| **Descripción** | Registrarse como usuario de la aplicación web.                      |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v1             |
+
+
+| **R59**     | **Eliminar a un usuario**         |
+| --------------: | :------------------- |
+| **Descripción** | Eliminar a un usuario.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R60**     | **Log In**         |
+| --------------: | :------------------- |
+| **Descripción** | Acceder a la pagina web con un nombre de usuario y una contraseña que se almacenará con un método de encriptación.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R61**     | **Log Out**         |
+| --------------: | :------------------- |
+| **Descripción** | Método para desconectarse del modo usuario de la aplicación web.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R62**     | **Seguir a un usuario**         |
+| --------------: | :------------------- |
+| **Descripción** | Seguir a otro usuario dentro de la aplicación.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R63**     | **Ser seguido por otro usuario**         |
+| --------------: | :------------------- |
+| **Descripción** | Ser seguido por otro usuario de la aplicación.            |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R64**     | **Dejar de seguir a un usuario**         |
+| --------------: | :------------------- |
+| **Descripción** | Dejar de seguir a un usuario.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R65**     | **Bloquear a un usuario**         |
+| --------------: | :------------------- |
+| **Descripción** | Denegar a otro  usuario que pueda seguir tu cuenta o entrar en tu perfil.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R66**     | **Valorar una noticia**         |
+| --------------: | :------------------- |
+| **Descripción** | Dar una puntuación del 1 al 10 a una noticia.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v2             |
+
+
+| **R67**     | **Comentar una noticia**         |
+| --------------: | :------------------- |
+| **Descripción** | Dejar un comentario en una noticia. El comentario tendrá visibilidad global.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R68**     | **Eliminar un comentario de una noticia**         |
+| --------------: | :------------------- |
+| **Descripción** | Eliminar un comentario del usuario logueado escrito en una noticia.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R69**     | **Valorar un videojuego**         |
+| --------------: | :------------------- |
+| **Descripción** | Dar una puntuación del 1 al 5 a un videojuego.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v2             |
+
+
+| **R70**     | **Comentar un videojuego**         |
+| --------------: | :------------------- |
+| **Descripción** | Dejar un comentario en un videojuego. El comentario tendrá visibilidad global.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R71**     | **Eliminar un comentario de un videojuego**         |
+| --------------: | :------------------- |
+| **Descripción** | Eliminar un comentario del usuario logueado escrito en un videojuego.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R72**     | **Comentar en el muro de un usuario**         |
+| --------------: | :------------------- |
+| **Descripción** | Dejar un comentario en el muro de un usuario. El comentario tendrá visibilidad global.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R73**     | **Eliminar un comentario del muro de un usuario**         |
+| --------------: | :------------------- |
+| **Descripción** | Eliminar un comentario del usuario logueado escrito en el muro de un usuario.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R74**     | **Añadir un videojuego a un usuario**         |
+| --------------: | :------------------- |
+| **Descripción** | Permitir al usuario añadir un juego a su perfil para que pueda ser encontrado a través de este juego.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R75**     | **Eliminar un videojuego a un usuario**         |
+| --------------: | :------------------- |
+| **Descripción** | Permitir al usuario elimar un juego que esté añadido a su perfil.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R76**     | **Añadir un videojuego a un usuario**         |
+| --------------: | :------------------- |
+| **Descripción** | Permitir al usuario añadir un juego a su perfil para que pueda ser encontrado a través de este juego.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R77**     | **Eliminar un videojuego a un usuario**         |
+| --------------: | :------------------- |
+| **Descripción** | Permitir al usuario elimar un juego que esté añadido a su perfil.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+
+
+
+
 
 ## Cuadro resumen
 
