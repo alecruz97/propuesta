@@ -375,7 +375,7 @@
 | **Descripción** | Eliminar un género que no deberá estar vinculado a un videojuego.             |
 | **Prioridad**   | Importante           |
 | **Tipo**        | Funcional                |
-| **Complejidad** | Media         |
+| **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
 
 
@@ -429,13 +429,13 @@
 | **Descripción** | Eliminar un administrador de la base de datos.             |
 | **Prioridad**   | Importante           |
 | **Tipo**        | Funcional                |
-| **Complejidad** | Media         |
+| **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
 
 
 | **R49**     | **Añadir un usuario**         |
 | --------------: | :------------------- |
-| **Descripción** | Añadir un usuario que cumpla con las reglas SQL especificadas en la base de datos.             |
+| **Descripción** |  Añadir un usuario que cumpla con las reglas SQL especificadas en la base de datos.             |
 | **Prioridad**   | Importante           |
 | **Tipo**        | Funcional                |
 | **Complejidad** | Fácil         |
@@ -453,10 +453,10 @@
 
 | **R51**     | **Eliminar un usuario**         |
 | --------------: | :------------------- |
-| **Descripción** | Eliminar un usuario de la base de datos.             |
+| **Descripción** |  Eliminar un usuario de la base de datos.             |
 | **Prioridad**   | Importante           |
 | **Tipo**        | Funcional                |
-| **Complejidad** | Media         |
+| **Complejidad** | Fácil         |
 | **Entrega**     | v1             |
 
 
@@ -507,7 +507,7 @@
 
 | **R57**     | **Ordenar videojuegos**         |
 | --------------: | :------------------- |
-| **Descripción** | Ordenar un videojuego por diferentes parametros: "género, año de lanzamiento, estudio de desarrollo, etc".                      |
+| **Descripción** | Ordenar un videojuego por diferentes parametros: "género, año de lanzamiento, estudio de desarrollo, etc".             |
 | **Prioridad**   | Importante           |
 | **Tipo**        | Funcional                |
 | **Complejidad** | Media         |
@@ -516,7 +516,7 @@
 
 | **R58**     | **Registrarse como usuario**         |
 | --------------: | :------------------- |
-| **Descripción** | Registrarse como usuario de la aplicación web.                      |
+| **Descripción** | Registrarse como usuario de la aplicación web.             |
 | **Prioridad**   | Importante           |
 | **Tipo**        | Funcional                |
 | **Complejidad** | Media         |
@@ -525,10 +525,10 @@
 
 | **R59**     | **Eliminar a un usuario**         |
 | --------------: | :------------------- |
-| **Descripción** | Eliminar a un usuario.             |
+| **Descripción** | Acceder a la pagina web con un nombre de usuario y una contraseña que se almacenará con un método de encriptación.             |
 | **Prioridad**   | Importante           |
 | **Tipo**        | Funcional                |
-| **Complejidad** | Fácil         |
+| **Complejidad** | Media         |
 | **Entrega**     | v1             |
 
 
@@ -561,7 +561,7 @@
 
 | **R63**     | **Ser seguido por otro usuario**         |
 | --------------: | :------------------- |
-| **Descripción** | Ser seguido por otro usuario de la aplicación.            |
+| **Descripción** | Ser seguido por otro usuario de la aplicación.             |
 | **Prioridad**   | Importante           |
 | **Tipo**        | Funcional                |
 | **Complejidad** | Media         |
@@ -582,7 +582,7 @@
 | **Descripción** | Denegar a otro  usuario que pueda seguir tu cuenta o entrar en tu perfil.             |
 | **Prioridad**   | Importante           |
 | **Tipo**        | Funcional                |
-| **Complejidad** | Media         |
+| **Complejidad** | Difícil         |
 | **Entrega**     | v2             |
 
 
@@ -600,7 +600,7 @@
 | **Descripción** | Dejar un comentario en una noticia. El comentario tendrá visibilidad global.             |
 | **Prioridad**   | Importante           |
 | **Tipo**        | Funcional                |
-| **Complejidad** | Media         |
+| **Complejidad** | Fácil         |
 | **Entrega**     | v2             |
 
 
@@ -609,7 +609,7 @@
 | **Descripción** | Eliminar un comentario del usuario logueado escrito en una noticia.             |
 | **Prioridad**   | Importante           |
 | **Tipo**        | Funcional                |
-| **Complejidad** | Media         |
+| **Complejidad** | Fácil         |
 | **Entrega**     | v2             |
 
 
@@ -705,7 +705,7 @@
 
 | **R79**     | **Implementar restricciones de usuarios**         |
 | --------------: | :------------------- |
-| **Descripción** | Según el rol que posean los usuarios podrán llevar a cabo ciertas acciones o no.              |
+| **Descripción** | Según el rol que posean los usuarios podrán llevar a cabo ciertas acciones o no.             |
 | **Prioridad**   | Importante           |
 | **Tipo**        | Funcional                |
 | **Complejidad** | Difícil         |
@@ -714,28 +714,28 @@
 
 | **R80**     | **Integración de la API externa para estadísticas de los videojuegos**         |
 | --------------: | :------------------- |
-| **Descripción** | Integración de la API para que los usuarios puedan ver sus estadísticas de los videojuegos de una empresa.              |
+| **Descripción** | Integración de la API para que los usuarios puedan ver sus estadísticas de los videojuegos de una empresa.             |
 | **Prioridad**   | Importante           |
-| **Tipo**        | Funcional                |
+| **Tipo**        | Técnico                |
 | **Complejidad** | Difícil         |
 | **Entrega**     | v3             |
 
 
 | **R81**     | **Integración de la API a la base de datos**         |
 | --------------: | :------------------- |
-| **Descripción** | Añadir reglas a la base de datos para que solo los usuarios que tenga añadido el videojuego puedan ver sus estadísticas.              |
+| **Descripción** | Añadir reglas a la base de datos para que solo los usuarios que tenga añadido el videojuego puedan ver sus estadísticas.             |
 | **Prioridad**   | Importante           |
 | **Tipo**        | Funcional                |
-| **Complejidad** | Media         |
+| **Complejidad** | Difícil         |
 | **Entrega**     | v3             |
 
 
 | **R82**     | **Cambiar contraseña**         |
 | --------------: | :------------------- |
 | **Descripción** | Añadir la posibilidad de cambiar la contraseña.             |
-| **Prioridad**   | Opcional           |
+| **Prioridad**   | Importante           |
 | **Tipo**        | Funcional                |
-| **Complejidad** | Facil         |
+| **Complejidad** | Fácil         |
 | **Entrega**     | v3             |
 
 
@@ -744,47 +744,47 @@
 | **Descripción** | Añadir un apartado para recibir sugerencias.             |
 | **Prioridad**   | Opcional           |
 | **Tipo**        | Funcional                |
-| **Complejidad** | Facil         |
+| **Complejidad** | Fácil         |
 | **Entrega**     | v3             |
 
 
-| **R83**     | **Los administradores pueden gestionar las sugerencias**         |
+| **R84**     | **Los administradores pueden gestionar las sugerencias**         |
 | --------------: | :------------------- |
 | **Descripción** | Gestión de sugerencias por parte de los administradores.             |
 | **Prioridad**   | Opcional           |
 | **Tipo**        | Funcional                |
-| **Complejidad** | Facil         |
+| **Complejidad** | Fácil         |
 | **Entrega**     | v3             |
 
 
-| **R84**     | **Añadir imagen de perfil**         |
+| **R85**     | **Añadir imagen de perfil**         |
 | --------------: | :------------------- |
 | **Descripción** | Añadir una imagen de perfil.             |
 | **Prioridad**   | Opcional           |
 | **Tipo**        | Funcional                |
-| **Complejidad** | Media         |
+| **Complejidad** | Difícil         |
 | **Entrega**     | v3             |
 
 
-| **R85**     | **Modificar imagen de perfil**         |
+| **R86**     | **Modificar imagen de perfil**         |
 | --------------: | :------------------- |
 | **Descripción** | Modificar una imagen de perfil.             |
 | **Prioridad**   | Opcional           |
 | **Tipo**        | Funcional                |
-| **Complejidad** | Media         |
+| **Complejidad** | Difícil         |
 | **Entrega**     | v3             |
 
 
-| **R86**     | **Eliminar imagen de perfil**         |
+| **R87**     | **Eliminar imagen de perfil**         |
 | --------------: | :------------------- |
 | **Descripción** | Eliminar una imagen de perfil.             |
 | **Prioridad**   | Opcional           |
 | **Tipo**        | Funcional                |
-| **Complejidad** | Media         |
+| **Complejidad** | Difícil         |
 | **Entrega**     | v3             |
 
 
-| **R87**     | **Chat entre usuarios**         |
+| **R88**     | **Chat entre usuarios**         |
 | --------------: | :------------------- |
 | **Descripción** | Posibilidad de crear una ventana de chat entre usuarios.             |
 | **Prioridad**   | Opcional           |
@@ -793,7 +793,7 @@
 | **Entrega**     | v3             |
 
 
-| **R88**     | **Registro mediante cuenta Google**         |
+| **R89**     | **Registro mediante cuenta Google**         |
 | --------------: | :------------------- |
 | **Descripción** | Posibilidad de registrarse a través de una cuenta Google.             |
 | **Prioridad**   | Opcional           |
@@ -802,16 +802,16 @@
 | **Entrega**     | v3             |
 
 
-| **R89**     | **Verificación en dos pasos a través de email**         |
+| **R90**     | **Verificación en dos pasos a través de email**         |
 | --------------: | :------------------- |
-| **Descripción** | Verifiación a través de email.             |
+| **Descripción** | Verifiación en dos pasos a través de email.             |
 | **Prioridad**   | Opcional           |
 | **Tipo**        | Técnico                |
 | **Complejidad** | Difícil         |
 | **Entrega**     | v3             |
 
 
-| **R90**     | **Verificación en dos pasos a través de Google Authenticator**         |
+| **R91**     | **Verificación en dos pasos a través de Google Authenticator**         |
 | --------------: | :------------------- |
 | **Descripción** | Verifiaciónen dos pasos a través Google Authenticator.             |
 | **Prioridad**   | Opcional           |
@@ -862,57 +862,57 @@
 | (**R35**) Diseño para varias resoluciones | Mínimo | Técnico | Fácil | v1 | 
 | (**R36**) Varios navegadores | Mínimo | Técnico | Fácil | v1 | 
 | (**R37**) Despliegue en un Host | Mínimo | Técnico | Fácil | v1 | 
-| (**R38**) Despliegue en un servidor local | Mínimo | Técnico | Fácil | v1 |
-| (**R39**) Crear base de datos | Importante | Información | Fácil | v1 |
-| (**R40**) Añadir un género | Importante | Funcional | Fácil | v1 |
-| (**R41**) Modificar un género | Importante | Funcional | Fácil | v1 |
-| (**R42**) Eliminar un género | Importante | Funcional  | Media | v1 |
-| (**R43**) Añadir un videojuego | Importante | Funcional | Fácil | v1 |
-| (**R44**) Modificar un videojuego | Importante | Funcional | Fácil | v1 |
-| (**R45**) Eliminar un videojuego | Importante | Funcional | Media | v1 |
-| (**R46**) Añadir un administrador | Importante | Funcional | Fácil | v1 |
-| (**R47**) Modificar un administrador | Importante | Funcional | Fácil | v1 |
-| (**R48**) Eliminar un administrador | Importante | Funcional | Media | v1 |
-| (**R49**) Añadir un usuario | Importante | Funcional | Fácil | v1 |
-| (**R50**) Modificar un usuario | Importante | Funcional | Fácil | v1 |
-| (**R51**) Eliminar un usuario | Importante | Funcional | Media | v1 |
-| (**R52**) Añadir una noticia | Importante | Funcional | Fácil | v1 |
-| (**R53**) Modificar una noticia | Importante | Funcional | Fácil | v1 |
-| (**R54**) Eliminar una noticia | Importante | Funcional | Fácil | v1 |
-| (**R55**) Buscar un videojuego | Importante | Funcional | Media | v1 |
-| (**R56**) Buscar un usuario | Importante | Funcional | Media | v1 |
-| (**R57**) Ordenar videojuegos | Importante | Funcional | Media | v1 |
-| (**R58**) Registrarse como usuario | Importante | Funcional | Media | v1 |
-| (**R59**) Eliminar a un usuario | Importante | Funcional | Fácil | v1 |
-| (**R60**) Log In | Importante | Funcional | Fácil | v1 |
-| (**R61**) Log Out | Importante | Funcional | Fácil | v1 |
-| (**R62**) Seguir a un usuario | Importante | Funcional | Media | v2 |
-| (**R63**) Ser seguido por otro usuario | Importante | Funcional | Media | v2 |
-| (**R64**) Dejar de seguir a un usuario | Importante | Funcional | Media | v2 |
-| (**R65**) Bloquear a un usuario | Importante | Funcional | Media | v2 |
-| (**R66**) Valorar una noticia | Importante | Funcional | Fácil | v2 |
-| (**R67**) Comentar una noticia | Importante | Funcional | Media | | v2             |
-| (**R68**) Eliminar un comentario de una noticia | Importante | Funcional | Media | v2 |
-| (**R69**) Valorar un videojuego | Importante | Funcional | Fácil | v2 |
-| (**R70**) Comentar un videojuego | Importante | Funcional | Media | v2 |
-| (**R71**) Eliminar un comentario de un videojuego | Importante | Funcional | Media | v2 |
-| (**R72**) Comentar en el muro de un usuario | Importante | Funcional | Media | v2 |
-| (**R73**) Eliminar un comentario del muro de un usuario | Importante | Funcional | Media | v2 |
-| (**R74**) Añadir un videojuego a un usuario | Importante | Funcional | Media | v2 |
-| (**R75**) Eliminar un videojuego a un usuario | Importante | Funcional | Media | v2 |
-| (**R76**) Añadir un nickname de un videojuego | Importante | Funcional | Media | v2 |
-| (**R77**) Modificar un nickname de un videojuego | Importante | Funcional | Media | v2 |
-| (**R78**) Modificar un nickname de un videojuego | Importante | Funcional | Media | v2 |
-| (**R79**) Implementar restricciones de usuarios | Importante | Funcional | Difícil | v2 |
-| (**R80**) Integración de la API externa para estadísticas de los videojuegos | Importante | Funcional | Difícil | v3 |
-| (**R81**) Integración de la API a la base de datos | Importante | Funcional | Media | v3 |
-| (**R82**) Cambiar contraseña | Opcional | Funcional | Facil | v3 |
-| (**R83**) Buzón de sugerencias | Opcional | Funcional | Facil | v3 |
-| (**R83**) Los administradores pueden gestionar las sugerencias | Opcional | Funcional | Facil | v3 |
-| (**R84**) Añadir imagen de perfil | Opcional | Funcional | Media | v3 |
-| (**R85**) Modificar imagen de perfil | Opcional | Funcional | Media | v3 |
-| (**R86**) Eliminar imagen de perfil | Opcional | Funcional | Media | v3 |
-| (**R87**) Chat entre usuarios | Opcional | Técnico | Difícil | v3 |
-| (**R88**) Registro mediante cuenta Google | Opcional | Técnico | Difícil | v3 |
-| (**R89**) Verificación en dos pasos a través de email | Opcional | Técnico | Difícil | v3 |
-| (**R90**) Verificación en dos pasos a través de Google Authenticator | Opcional | Técnico | Difícil | v3 |
+| (**R38**) Despliegue en un servidor local | Mínimo | Técnico | Fácil | v1 | 
+| (**R39**) Crear base de datos | Importante | Información | Fácil | v1 | 
+| (**R40**) Añadir un género | Importante | Funcional | Fácil | v1 | 
+| (**R41**) Modificar un género | Importante | Funcional | Fácil | v1 | 
+| (**R42**) Eliminar un género | Importante | Funcional | Fácil | v1 | 
+| (**R43**) Añadir un videojuego | Importante | Funcional | Fácil | v1 | 
+| (**R44**) Modificar un videojuego | Importante | Funcional | Fácil | v1 | 
+| (**R45**) Eliminar un videojuego | Importante | Funcional | Media | v1 | 
+| (**R46**) Añadir un administrador | Importante | Funcional | Fácil | v1 | 
+| (**R47**) Modificar un administrador | Importante | Funcional | Fácil | v1 | 
+| (**R48**) Eliminar un administrador | Importante | Funcional | Fácil | v1 | 
+| (**R49**) Añadir un usuario | Importante | Funcional | Fácil | v1 | 
+| (**R50**) Modificar un usuario | Importante | Funcional | Fácil | v1 | 
+| (**R51**) Eliminar un usuario | Importante | Funcional | Fácil | v1 | 
+| (**R52**) Añadir una noticia | Importante | Funcional | Fácil | v1 | 
+| (**R53**) Modificar una noticia | Importante | Funcional | Fácil | v1 | 
+| (**R54**) Eliminar una noticia | Importante | Funcional | Fácil | v1 | 
+| (**R55**) Buscar un videojuego | Importante | Funcional | Media | v1 | 
+| (**R56**) Buscar un usuario | Importante | Funcional | Media | v1 | 
+| (**R57**) Ordenar videojuegos | Importante | Funcional | Media | v1 | 
+| (**R58**) Registrarse como usuario | Importante | Funcional | Media | v1 | 
+| (**R59**) Eliminar a un usuario | Importante | Funcional | Media | v1 | 
+| (**R60**) Log In | Importante | Funcional | Fácil | v1 | 
+| (**R61**) Log Out | Importante | Funcional | Fácil | v1 | 
+| (**R62**) Seguir a un usuario | Importante | Funcional | Media | v2 | 
+| (**R63**) Ser seguido por otro usuario | Importante | Funcional | Media | v2 | 
+| (**R64**) Dejar de seguir a un usuario | Importante | Funcional | Media | v2 | 
+| (**R65**) Bloquear a un usuario | Importante | Funcional | Difícil | v2 | 
+| (**R66**) Valorar una noticia | Importante | Funcional | Fácil | v2 | 
+| (**R67**) Comentar una noticia | Importante | Funcional | Fácil | v2 | 
+| (**R68**) Eliminar un comentario de una noticia | Importante | Funcional | Fácil | v2 | 
+| (**R69**) Valorar un videojuego | Importante | Funcional | Fácil | v2 | 
+| (**R70**) Comentar un videojuego | Importante | Funcional | Media | v2 | 
+| (**R71**) Eliminar un comentario de un videojuego | Importante | Funcional | Media | v2 | 
+| (**R72**) Comentar en el muro de un usuario | Importante | Funcional | Media | v2 | 
+| (**R73**) Eliminar un comentario del muro de un usuario | Importante | Funcional | Media | v2 | 
+| (**R74**) Añadir un videojuego a un usuario | Importante | Funcional | Media | v2 | 
+| (**R75**) Eliminar un videojuego a un usuario | Importante | Funcional | Media | v2 | 
+| (**R76**) Añadir un nickname de un videojuego | Importante | Funcional | Media | v2 | 
+| (**R77**) Modificar un nickname de un videojuego | Importante | Funcional | Media | v2 | 
+| (**R78**) Modificar un nickname de un videojuego | Importante | Funcional | Media | v2 | 
+| (**R79**) Implementar restricciones de usuarios | Importante | Funcional | Difícil | v2 | 
+| (**R80**) Integración de la API externa para estadísticas de los videojuegos | Importante | Técnico | Difícil | v3 | 
+| (**R81**) Integración de la API a la base de datos | Importante | Funcional | Difícil | v3 | 
+| (**R82**) Cambiar contraseña | Importante | Funcional | Fácil | v3 | 
+| (**R83**) Buzón de sugerencias | Opcional | Funcional | Fácil | v3 | 
+| (**R84**) Los administradores pueden gestionar las sugerencias | Opcional | Funcional | Fácil | v3 | 
+| (**R85**) Añadir imagen de perfil | Opcional | Funcional | Difícil | v3 | 
+| (**R86**) Modificar imagen de perfil | Opcional | Funcional | Difícil | v3 | 
+| (**R87**) Eliminar imagen de perfil | Opcional | Funcional | Difícil | v3 | 
+| (**R88**) Chat entre usuarios | Opcional | Técnico | Difícil | v3 | 
+| (**R89**) Registro mediante cuenta Google | Opcional | Técnico | Difícil | v3 | 
+| (**R90**) Verificación en dos pasos a través de email | Opcional | Técnico | Difícil | v3 | 
+| (**R91**) Verificación en dos pasos a través de Google Authenticator | Opcional | Técnico | Difícil | v3 | 
