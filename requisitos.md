@@ -760,27 +760,27 @@
 | **R85**     | **Añadir imagen de perfil**         |
 | --------------: | :------------------- |
 | **Descripción** | Añadir una imagen de perfil.             |
-| **Prioridad**   | Opcional           |
+| **Prioridad**   | Importante           |
 | **Tipo**        | Funcional                |
-| **Complejidad** | Difícil         |
+| **Complejidad** | Fácil         |
 | **Entrega**     | v3             |
 
 
 | **R86**     | **Modificar imagen de perfil**         |
 | --------------: | :------------------- |
 | **Descripción** | Modificar una imagen de perfil.             |
-| **Prioridad**   | Opcional           |
+| **Prioridad**   | Importante           |
 | **Tipo**        | Funcional                |
-| **Complejidad** | Difícil         |
+| **Complejidad** | Fácil         |
 | **Entrega**     | v3             |
 
 
 | **R87**     | **Eliminar imagen de perfil**         |
 | --------------: | :------------------- |
 | **Descripción** | Eliminar una imagen de perfil.             |
-| **Prioridad**   | Opcional           |
+| **Prioridad**   | Importante           |
 | **Tipo**        | Funcional                |
-| **Complejidad** | Difícil         |
+| **Complejidad** | Fácil         |
 | **Entrega**     | v3             |
 
 
@@ -909,9 +909,9 @@
 | (**R82**) Cambiar contraseña | Importante | Funcional | Fácil | v3 | 
 | (**R83**) Buzón de sugerencias | Opcional | Funcional | Fácil | v3 | 
 | (**R84**) Los administradores pueden gestionar las sugerencias | Opcional | Funcional | Fácil | v3 | 
-| (**R85**) Añadir imagen de perfil | Opcional | Funcional | Difícil | v3 | 
-| (**R86**) Modificar imagen de perfil | Opcional | Funcional | Difícil | v3 | 
-| (**R87**) Eliminar imagen de perfil | Opcional | Funcional | Difícil | v3 | 
+| (**R85**) Añadir imagen de perfil | Importante | Funcional | Fácil | v3 | 
+| (**R86**) Modificar imagen de perfil | Importante | Funcional | Fácil | v3 | 
+| (**R87**) Eliminar imagen de perfil | Importante | Funcional | Fácil | v3 | 
 | (**R88**) Chat entre usuarios | Opcional | Técnico | Difícil | v3 | 
 | (**R89**) Registro mediante cuenta Google | Opcional | Técnico | Difícil | v3 | 
 | (**R90**) Verificación en dos pasos a través de email | Opcional | Técnico | Difícil | v3 | 
